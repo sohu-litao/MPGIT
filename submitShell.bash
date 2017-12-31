@@ -1,5 +1,5 @@
 #!/user/bin/bash
-
+##Submit a Spark Task Shell.
 ##########Yesterday Time###########
 dt=`date -d "now 1 days ago" "+%Y%m%d"`
 echo "Now 1 days ago is ${dt}"
